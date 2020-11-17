@@ -1,0 +1,26 @@
+body {
+    font-size:26px;
+	font-weight:400;
+}
+h1.lol {
+    word-spacing:190px;	
+	background-color: #4682B4 ;
+	color:white;
+	text-indent:140px;
+}
+.jon{
+	font-size:15px
+}
+p.vhod{
+	text-align:center;
+	font-family:" Arial Black";
+}
+form input {
+	font-size:25px;
+	display:  flex;
+}
+p.kok {
+	text-align: center ;
+	font-size:14px;
+	font-weight:100;
+}
